@@ -1,0 +1,16 @@
+.env
+*.mp4
+*.m4s
+*.flv
+*.ts
+*.srt
+*.srt.json
+*.json
+*.html
+*.jpg
+*.png
+*.log
+*.frames/
+P*_整理稿.md
+《神雕侠侣》*
+__pycache__/
